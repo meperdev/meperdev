@@ -9,4 +9,4 @@
 - Buttons painted inside the hero GIF are visual only; actual functional links are just underneath.
 - HTML and SVG are GitHub Markdown-compatible; GitHub light/dark backgrounds may affect perceived spacing. SVG plugin panes represent demos and are not live status.
 
-Copy README.md and assets/ into a public `MeperDonas/MeperDonas` repository to activate your profile README. No publication performed.
+Copy README.md and assets/ into a public `meperdev/meperdev` repository to activate your profile README. No publication performed.
